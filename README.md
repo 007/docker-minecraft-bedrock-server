@@ -217,7 +217,7 @@ All variables are written to the variables file located at `config/default/varia
 
 ## Mods Addons
 
-Also known as behavior or resource packs, in order to add mods into your server you can follow these steps, tested with [OPS (One Player Sleep)](https://foxynotail.com/addons/ops/) and [bedrocktweaks](https://bedrocktweaks.net/resource-packs/)
+Also known as behavior or resource packs, in order to add mods into your server you can follow these steps, tested with [OPS (One Player Sleep)](https://foxynotail.com/addons/ops) and [bedrocktweaks](https://bedrocktweaks.net/resource-packs/)
 
 1. Install the mcpack or mcaddon on the client side first, just to make it easier to copy the files to the server, for Windows 10 files should be located on `C:\Users\USER\AppData\Local\Packages\Microsoft.MinecraftUWP_*\LocalState\games\com.mojang`.
 2. Copy over the folders of the mods from either behavior_packs or resource_packs into the server's volume.
